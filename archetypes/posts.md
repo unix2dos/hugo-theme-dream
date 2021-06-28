@@ -2,9 +2,9 @@
 title: {{ replace .TranslationBaseName "-" " " | title }}
 date: {{ .Date }}
 lastmod: {{ .Date }}
-author: Author Name
-# avatar: /img/author.jpg
-# authorlink: https://author.site
+author: levonfly
+avatar: /me/avatar.jpg
+# authorlink: https://realhttp.com
 cover: /img/cover.jpg
 # images:
 #   - /img/cover.jpg
@@ -14,7 +14,6 @@ tags:
   - tag1
   - tag2
 # nolastmod: true
-draft: true
 ---
 
 Cut out summary from your post content here.
